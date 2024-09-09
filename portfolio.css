@@ -1,0 +1,44 @@
+/* portfolio.css */
+
+/* Add custom CSS styles here */
+.node {
+    cursor: pointer;
+  }
+  
+  .node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 3px;
+  }
+  
+  .node text {
+    font: 12px sans-serif;
+  }
+  
+  .link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 2px;
+  }
+  
+  .node .children {
+    display: none; /* Hide child nodes by default */
+  }
+  
+  .svg-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 50%; /* Aspect ratio 2:1 */
+    vertical-align: top;
+    overflow: hidden;
+  }
+  
+  #svg-content-responsive {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+  
