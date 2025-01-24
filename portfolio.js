@@ -27,7 +27,8 @@ var treeData = {
         { "name": "Work Experience", "children": [
           { "name": "Firefly Films" },
           { "name": "The Crosscurrent" },
-          { "name": "Bada Business Pvt. Ltd." }
+          { "name": "Bada Business Pvt. Ltd." },
+          {"name" : "The New Shop"}
         ]},
         { "name": "Skills", "children": [
           { "name": "Data Analysis/SQL/Python" },
@@ -37,7 +38,8 @@ var treeData = {
         { "name": "Projects", "children": [
           { "name": "The Crosscurrent Official Web-Dev", "url": "https://thecrosscurrent.in/"},
           { "name": "Firefly Films Web-Dev", "url": "http://thefireflyfilms.com/"},
-          { "name": "Bada Business Motion Graphics", "url": "https://www.badabusiness.com/"}
+          { "name": "Bada Business Motion Graphics", "url": "https://www.badabusiness.com/"},
+            {"name": "The New Shop Data Scientist", "url", "https://thenewshop.in"}
         ]}
       ]},
       { "name": "Portfolio", "children": [
