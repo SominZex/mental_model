@@ -39,7 +39,7 @@ var treeData = {
           { "name": "The Crosscurrent Official Web-Dev", "url": "https://thecrosscurrent.in/"},
           { "name": "Firefly Films Web-Dev", "url": "http://thefireflyfilms.com/"},
           { "name": "Bada Business Motion Graphics", "url": "https://www.badabusiness.com/"},
-            {"name": "The New Shop Data Scientist", "url", "https://thenewshop.in"}
+          {"name": "The New Shop Data Scientist", "url": "https://thenewshop.in"}
         ]}
       ]},
       { "name": "Portfolio", "children": [
