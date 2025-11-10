@@ -132,6 +132,10 @@ var treeData = {
         d.children = [
           { name: "Motion Graphic Designer" }
         ];
+      } else if (d.name === "The New Shop") {
+        d.children = [
+          { name: "Data Scientist" }
+        ];
       } else if (d.name === "Project A" || d.name === "Project B" || d.name === "Project C") {
         d.children = [
           { name: "Project Description", url: "https://www.example.com/" + d.name.toLowerCase().replace(/\s+/g, '-') }
